@@ -19405,10 +19405,10 @@
             }
          ],
          "version": "0.0.1",
-         "id": "dsw:lifesciences-elixir-norway:0.0.1",
+         "id": "elixir.no:lifesciences-elixir-norway:0.0.1",
          "mergeCheckpointPackageId": "dsw:lifesciences:1.0.0",
          "license": "Apache-2.0",
-         "organizationId": "elixir-no",
+         "organizationId": "elixir.no",
          "previousPackageId": "dsw:lifesciences:1.0.0",
          "description": "Life Sciences customization of DSW Knowledge Model"
       },
@@ -19522,11 +19522,11 @@
             }
          ],
          "version": "0.0.2",
-         "id": "dsw:lifesciences-elixir-norway:0.0.2",
+         "id": "elixir.no:lifesciences-elixir-norway:0.0.2",
          "mergeCheckpointPackageId": "dsw:lifesciences:1.0.0",
          "license": "Apache-2.0",
-         "organizationId": "elixir-no",
-         "previousPackageId": "dsw:lifesciences-elixir-norway:0.0.1",
+         "organizationId": "elixir.no",
+         "previousPackageId": "elixir.no:lifesciences-elixir-norway:0.0.1",
          "description": "Life Sciences customization of DSW Knowledge Model"
       },
       {
@@ -19866,11 +19866,11 @@
             }
          ],
          "version": "0.0.3",
-         "id": "dsw:lifesciences-elixir-norway:0.0.3",
+         "id": "elixir.no:lifesciences-elixir-norway:0.0.3",
          "mergeCheckpointPackageId": "dsw:lifesciences:1.0.0",
          "license": "Apache-2.0",
-         "organizationId": "elixir-no",
-         "previousPackageId": "dsw:lifesciences-elixir-norway:0.0.2",
+         "organizationId": "elixir.no",
+         "previousPackageId": "elixir.no:lifesciences-elixir-norway:0.0.2",
          "description": "Life Sciences customization of DSW Knowledge Model"
       },
       {
@@ -21673,11 +21673,11 @@
             }
          ],
          "version": "0.0.4",
-         "id": "dsw:lifesciences-elixir-norway:0.0.4",
+         "id": "elixir.no:lifesciences-elixir-norway:0.0.4",
          "mergeCheckpointPackageId": "dsw:lifesciences:1.0.0",
          "license": "Apache-2.0",
-         "organizationId": "elixir-no",
-         "previousPackageId": "dsw:lifesciences-elixir-norway:0.0.3",
+         "organizationId": "elixir.no",
+         "previousPackageId": "elixir.no:lifesciences-elixir-norway:0.0.3",
          "description": "Life Sciences customization of DSW Knowledge Model"
       },
       {
@@ -22695,11 +22695,11 @@
             }
          ],
          "version": "0.0.5",
-         "id": "dsw:lifesciences-elixir-norway:0.0.5",
+         "id": "elixir.no:lifesciences-elixir-norway:0.0.5",
          "mergeCheckpointPackageId": "dsw:lifesciences:1.0.0",
          "license": "Apache-2.0",
-         "organizationId": "elixir-no",
-         "previousPackageId": "dsw:lifesciences-elixir-norway:0.0.4",
+         "organizationId": "elixir.no",
+         "previousPackageId": "elixir.no:lifesciences-elixir-norway:0.0.4",
          "description": "Life Sciences customization of DSW Knowledge Model"
       },
       {
@@ -23411,11 +23411,11 @@
             }
          ],
          "version": "0.0.6",
-         "id": "dsw:lifesciences-elixir-norway:0.0.6",
+         "id": "elixir.no:lifesciences-elixir-norway:0.0.6",
          "mergeCheckpointPackageId": "dsw:lifesciences:1.0.0",
          "license": "Apache-2.0",
-         "organizationId": "elixir-no",
-         "previousPackageId": "dsw:lifesciences-elixir-norway:0.0.5",
+         "organizationId": "elixir.no",
+         "previousPackageId": "elixir.no:lifesciences-elixir-norway:0.0.5",
          "description": "Life Sciences customization of DSW Knowledge Model"
       },
       {
@@ -24095,11 +24095,11 @@
             }
          ],
          "version": "0.0.7",
-         "id": "dsw:lifesciences-elixir-norway:0.0.7",
+         "id": "elixir.no:lifesciences-elixir-norway:0.0.7",
          "mergeCheckpointPackageId": "dsw:lifesciences:1.0.0",
          "license": "Apache-2.0",
-         "organizationId": "elixir-no",
-         "previousPackageId": "dsw:lifesciences-elixir-norway:0.0.6",
+         "organizationId": "elixir.no",
+         "previousPackageId": "elixir.no:lifesciences-elixir-norway:0.0.6",
          "description": "Life Sciences customization of DSW Knowledge Model"
       },
       {
@@ -25429,11 +25429,11 @@
             }
          ],
          "version": "0.0.8",
-         "id": "dsw:lifesciences-elixir-norway:0.0.8",
+         "id": "elixir.no:lifesciences-elixir-norway:0.0.8",
          "mergeCheckpointPackageId": "dsw:lifesciences:1.0.0",
          "license": "Apache-2.0",
-         "organizationId": "elixir-no",
-         "previousPackageId": "dsw:lifesciences-elixir-norway:0.0.7",
+         "organizationId": "elixir.no",
+         "previousPackageId": "elixir.no:lifesciences-elixir-norway:0.0.7",
          "description": "Life Sciences customization of DSW Knowledge Model"
       },
       {
@@ -25482,16 +25482,16 @@
             }
          ],
          "version": "0.0.9",
-         "id": "dsw:lifesciences-elixir-norway:0.0.9",
+         "id": "elixir.no:lifesciences-elixir-norway:0.0.9",
          "mergeCheckpointPackageId": "dsw:lifesciences:1.0.0",
          "license": "Apache-2.0",
-         "organizationId": "elixir-no",
-         "previousPackageId": "dsw:lifesciences-elixir-norway:0.0.8",
+         "organizationId": "elixir.no",
+         "previousPackageId": "elixir.no:lifesciences-elixir-norway:0.0.8",
          "description": "Life Sciences customization of DSW Knowledge Model"
       }
    ],
    "name": "Life Sciences DSW Knowledge Model - ELIXIR Norway localization",
    "version": "0.0.9",
-   "id": "dsw:lifesciences-elixir-norway:0.0.9",
-   "organizationId": "elixir-no"
+   "id": "elixir.no:lifesciences-elixir-norway:0.0.9",
+   "organizationId": "elixir.no"
 }
